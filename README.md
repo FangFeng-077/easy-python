@@ -6,7 +6,7 @@
 
 ### tasks
 
-- [x] leecture 1
+- [x] lecture 1
   1. karel the robot world
   2. __name__ and main
   2. function, nested functions
