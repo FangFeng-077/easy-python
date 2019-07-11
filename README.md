@@ -4,7 +4,7 @@
 <img src='./road_map.png' width="600" />
 
 
-### tasks
+### money
 
 - [x] lecture 1 - July 10th, 2019
   1. karel the robot world
