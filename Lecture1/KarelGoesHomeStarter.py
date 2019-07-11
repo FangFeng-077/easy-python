@@ -7,7 +7,22 @@ def main():
     Post-condition: Karel has picked up the beeper representing "home"
     """
     # FILL ME IN!
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    turn_left()
+    move()
+    pick_beeper()
+    
     pass
+
 
 ####### DO NOT EDIT CODE BELOW THIS LINE ########
 
