@@ -12,3 +12,11 @@
   2. function, nested functions
   3. decomposition
   4. module/library
+
+- [x] lecture 2 - July 11th, 2019
+  1. define function
+      turn_right, turn_around, safely_move, precisely_pick, make_beeper_road
+  2. control flow
+      if statement
+      while statement
+      
