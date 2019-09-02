@@ -25,10 +25,9 @@ def draw_square():
     """
     Draws an entire square.
     """
-    draw_side()
-    draw_side()
-    draw_side()
-    draw_side()
+    i = 0
+    while i < 4:
+        draw_side()
 
 
 def main():

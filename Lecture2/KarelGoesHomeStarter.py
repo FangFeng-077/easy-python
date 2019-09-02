@@ -1,5 +1,10 @@
 from karel.stanfordkarel import *
 
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+
 
 def main():
     """
@@ -10,13 +15,9 @@ def main():
     # Climb over the wall
     turn_left()
     move()
-    turn_left()
-    turn_left()
-    turn_left()
+    turn_right()
     move()
-    turn_left()
-    turn_left()
-    turn_left()
+    turn_right()
     move()
 
     # Go to the bottom right corner (home)
